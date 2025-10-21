@@ -30,6 +30,6 @@ Simular y analizar rutas usando un enfoque de **optimización combinatoria y an�
 
 **Autor:** Héctor Jesús Valadez Pardo
 
-**Lenguaje:** C  
+**Lenguaje:** C y Python
 **Tema:** Optimización, Análisis de datos, Probabilidad aplicada
 **Materia** Matemáticas Aplicadas a la Computación/ UAEM/ 4 Semestre
