@@ -1,6 +1,6 @@
 #TSP Análisis de Rutas
 
-Este proyecto implementa un programa en C que calcula y compara rutas entre un conjunto de ciudades (Traveling Salesman Problem - TSP).
+Este proyecto implementa un programa en C y en Python que calcula y compara rutas entre un conjunto de ciudades (Traveling Salesman Problem - TSP).
 
 #¿Qué hace este programa?
 
