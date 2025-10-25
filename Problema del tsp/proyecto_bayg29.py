@@ -1,3 +1,13 @@
+#Problema del Viajante (TSP): En matemáticas y ciencias de la computación, se refiere al problema del viajante, que busca la ruta más corta entre varias ciudades. 
+"""
+Librerias q se ocuparon:
+* math
+* numpy
+* matplotlib
+
+Para insalarlas es desde la terminal y usando este comando:
+pip install (nombre de la libreria)
+"""
 import math
 import numpy as np
 import matplotlib.pyplot as plt
