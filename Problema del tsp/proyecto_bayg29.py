@@ -1,10 +1,10 @@
-#Problema del Viajante (TSP): En matemáticas y ciencias de la computación, se refiere al problema del viajante, que busca la ruta más corta entre varias ciudades. 
 import math
 import numpy as np
 import matplotlib.pyplot as plt
 
 # ---------------------------------------------------------------
-# - Se lee bayg29.tsp (líneas "id x y" y termina en EOF)
+# Proyecto TSP - archivo completo
+# - Lee bayg29.tsp (líneas "id x y" y termina en EOF)
 # - Calcula matriz de distancias (euclidiana redondeada)
 # - Algoritmo "pétalos" visual (orden descendente por atan2 respecto al centro)
 # - Grafica la ruta y etiqueta cada punto con su índice y ángulo (grados)
